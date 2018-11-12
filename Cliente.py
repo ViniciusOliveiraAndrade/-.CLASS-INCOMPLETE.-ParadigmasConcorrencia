@@ -2,12 +2,11 @@ import socket #Importa o socket
 import sys #Importa a biblioteca do sistema
 import pickle
 import threading
-import time
 
 from Util import *
 
 ENDERECO = 'localhost'
-PORTACONECCAO = 25256
+PORTACONECCAO = 25255
 TAMANHODADOS = 4800
 
 #***************************************************************************************************************
