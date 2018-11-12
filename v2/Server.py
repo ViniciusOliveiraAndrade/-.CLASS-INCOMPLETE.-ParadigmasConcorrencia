@@ -19,7 +19,7 @@ def criar_coneccao(local_host, local_porta):
 
 	sock.bind(server_address) #Cria a liagação ou inicia o socket no endereço e na porta 
 
-	sock.listen(3) #ouvi a conecção com o  host, torna o socket em um servidor
+	sock.listen(1) #ouvi a conecção com o  host, torna o socket em um servidor
 
 	return sock
 
