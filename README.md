@@ -1,4 +1,4 @@
-# This is a class project of thread concurrency
+# This is a class project of thread concurrency using socket
 
 ## Requirements
 
